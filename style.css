@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    padding: 2pc;
+    flex-direction: column;
+}
+form{
+    padding: 12px;
+}
